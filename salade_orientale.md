@@ -3,16 +3,22 @@
 - 16 oz mix pour salade de chou
 - 4 oignons verts tranchés
 - 3 oz nouilles ramen
-- 1/2 à 3/4 de tasses d'amandes tranchées
-- 1/2 à 3/4 de tasses de graines de tournesol
-- 1/2 tasses d'huile
-- 1/3 tasses de vinaigre
-- 1 cuillère à table de sucre
+- 3/4 cups d'amandes tranchées
+- 3/4 cups de graines de tournesol
+- 1/2 cups d'huile
+- 1/3 cups de vinaigre
+- 1 tbsp de sucre
 - Poivre
 
 ## Étapes
+### Vinaigrette
 1. Mélanger l'huile, le vinaigre, la poudre des nouilles de ramen, le sucre et le poivre
 2. Réfrigérer au moins 1 heure
-3. Mélanger la salade de chou, les oignons, les amandes, les graines de tournesols et les ramens dans un bol
-4. Verser la vinaigrette sur la salade
+
+### Salade
+1. Casser les ramens en petits morceaux
+2. Trancher les oignons
+3. Mélanger salade de chou, oignons, amandes, graines de tournesols et ramens
+4. Brasser la vinaigrette
+5. Verser la vinaigrette sur la salade
 
