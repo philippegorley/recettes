@@ -11,7 +11,7 @@
 - Condiments
 
 ## Étapes
-1. Préchauffer le four à 500 F
+1. Préchauffer le four à 400 F
 2. Hacher l'ail
 3. Mélanger huile, vinaigre, ail, thym, sel et poivre
 4. Verser le mélange sur les champignons
